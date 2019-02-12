@@ -55,7 +55,7 @@ namespace ServicesDemo.ViewModels
                     Type = PinType.Place,
                     Position = new Position(Convert.ToDouble("17.412716"), Convert.ToDouble("78.395059")),
                     Label = "Text",
-                    Address = "Hyderabad"
+                    Address = "Frisco"
 
                 }
                
