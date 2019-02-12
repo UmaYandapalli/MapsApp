@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="ServicesDemo.Views.WhetherPage" xmlns:controls="clr-namespace:ServicesDemo;assembly=ServicesDemo" xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps">
+    <ContentPage.Content>
+        <StackLayout Margin="10,20,10,0" Orientation="Vertical" Spacing="10">
+            <controls:CustomMap x:Name="googlemap" IsShowingUser="true" MapType="Street" HeightRequest="150" HasScrollEnabled="true" HasZoomEnabled="true" />
+            <Button Clicked="NavigateToWhetherDeatails" Text="Navigate To Whether List">
+            </Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

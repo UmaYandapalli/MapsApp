@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="ServicesDemo.Views.WhetherListPage">
+    <ContentPage.Content>
+        <ListView x:Name="whetherListView" IsVisible="true" HasUnevenRows="true" HeightRequest="140">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                            <Grid.RowDefinitions>
+                                <RowDefinition />
+                                <RowDefinition />
+                                <RowDefinition />
+                            </Grid.RowDefinitions>
+                            <Label Text="{Binding Name}" Grid.Row="0" HorizontalOptions="FillAndExpand" />
+                            <Label Text="{Binding humidity}" Grid.Row="1" HorizontalOptions="FillAndExpand" />
+                            <Label Text="{Binding country}" Grid.Row="2" VerticalOptions="FillAndExpand" />
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </ContentPage.Content>
+</ContentPage>

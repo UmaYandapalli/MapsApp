@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8F3560E3-7817-42EB-BFCD-A130B048ACAC}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/smartims/Downloads/ServicesDemo/ServicesDemo/Views/WhetherPage.xaml.cs" relfile="ServicesDemo/Views/WhetherPage.xaml.cs" line="31" column="1" />
+      <Breakpoint enabled="false" file="/Users/smartims/Downloads/ServicesDemo/ServicesDemo/Views/WhetherPage.xaml.cs" relfile="ServicesDemo/Views/WhetherPage.xaml.cs" line="45" column="1" />
+      <Breakpoint enabled="false" file="/Users/smartims/Downloads/ServicesDemo/ServicesDemo/Views/WhetherPage.xaml.cs" relfile="ServicesDemo/Views/WhetherPage.xaml.cs" line="43" column="1" />
+      <Breakpoint enabled="false" file="/Users/smartims/Downloads/ServicesDemo/ServicesDemo/Views/WhetherPage.xaml.cs" relfile="ServicesDemo/Views/WhetherPage.xaml.cs" line="49" column="1" />
+      <Breakpoint enabled="false" file="/Users/smartims/Downloads/ServicesDemo/ServicesDemo/Views/WhetherPage.xaml.cs" relfile="ServicesDemo/Views/WhetherPage.xaml.cs" line="52" column="1" />
+      <Breakpoint enabled="false" file="/Users/smartims/Downloads/ServicesDemo/ServicesDemo/Views/WhetherPage.xaml.cs" relfile="ServicesDemo/Views/WhetherPage.xaml.cs" line="40" column="1" />
+      <Breakpoint enabled="false" file="/Users/smartims/Downloads/ServicesDemo/ServicesDemo/CustomMap.cs" relfile="ServicesDemo/CustomMap.cs" line="22" column="1" />
+      <Breakpoint enabled="false" file="/Users/smartims/Downloads/ServicesDemo/ServicesDemo/CustomMap.cs" relfile="ServicesDemo/CustomMap.cs" line="33" column="1" />
+      <Breakpoint enabled="false" file="/Users/smartims/Downloads/ServicesDemo/ServicesDemo/CustomMap.cs" relfile="ServicesDemo/CustomMap.cs" line="42" column="1" />
+      <Breakpoint enabled="false" file="/Users/smartims/Downloads/ServicesDemo/ServicesDemo/CustomMap.cs" relfile="ServicesDemo/CustomMap.cs" line="41" column="1" />
+      <Breakpoint enabled="false" file="/Users/smartims/Downloads/ServicesDemo/ServicesDemo/CustomMap.cs" relfile="ServicesDemo/CustomMap.cs" line="45" column="1" />
+      <Breakpoint enabled="false" file="/Users/smartims/Downloads/ServicesDemo/ServicesDemo/Views/WhetherPage.xaml.cs" relfile="ServicesDemo/Views/WhetherPage.xaml.cs" line="44" column="1" />
+      <Breakpoint enabled="false" file="/Users/smartims/Downloads/ServicesDemo/ServicesDemo/ViewModels/WhetherViewModel.cs" relfile="ServicesDemo/ViewModels/WhetherViewModel.cs" line="73" column="1" />
+      <Breakpoint enabled="false" file="/Users/smartims/Downloads/ServicesDemo/ServicesDemo/Views/WhetherPage.xaml.cs" relfile="ServicesDemo/Views/WhetherPage.xaml.cs" line="18" column="1" />
+      <Breakpoint enabled="false" file="/Users/smartims/Downloads/ServicesDemo/ServicesDemo/App.xaml.cs" relfile="ServicesDemo/App.xaml.cs" line="18" column="1" />
+      <Breakpoint enabled="false" file="/Users/smartims/Downloads/ServicesDemo/ServicesDemo/ViewModels/WhetherViewModel.cs" relfile="ServicesDemo/ViewModels/WhetherViewModel.cs" line="70" column="1" />
+      <Breakpoint enabled="false" file="/Users/smartims/Downloads/ServicesDemo/ServicesDemo/Views/WhetherPage.xaml.cs" relfile="ServicesDemo/Views/WhetherPage.xaml.cs" line="35" column="1" />
+      <Breakpoint enabled="false" file="/Users/smartims/Downloads/ServicesDemo/ServicesDemo/Common/WebServiceManager.cs" relfile="ServicesDemo/Common/WebServiceManager.cs" line="23" column="1" />
+      <Breakpoint file="/Users/smartims/Downloads/ServicesDemo/ServicesDemo/ViewModels/WhetherViewModel.cs" relfile="ServicesDemo/ViewModels/WhetherViewModel.cs" line="100" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ServicesDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.746391E4-1C4D-4B41-9AA3-6C7A4F56A35F" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ServicesDemo.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" FirstBuild="True" />
+</Properties>
